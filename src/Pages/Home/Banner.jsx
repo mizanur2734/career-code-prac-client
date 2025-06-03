@@ -39,7 +39,7 @@ const Banner = () => {
             Remote{" "}
             <motion.span
               animate={{
-                color: ["#ff5833", "#ddff33", "#42ff33", "#335bff", "#ff338d "],
+                color: ["#ff5833", "#ddff33", "#42ff33", "#335bff", ],
                 transition: { duration: 2, repeat: Infinity },
               }}
             >
